@@ -91,7 +91,7 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/AshvinjeetSingh/github-readme-streak-stats">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=AshvinjeetSingh)](https://git.io/streak-stats)
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AshvinjeetSingh's streak" src="https://github-readme-streak-stats-9m8ugfa77-AshvinjeetSingh.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
     </a>
