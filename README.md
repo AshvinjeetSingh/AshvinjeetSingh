@@ -2,6 +2,7 @@
 
 
 **`Digital Craftsman (Developer/Designer/Problem Solver`**
+
 Hey there! I'm a software developer with experience from HSBC and a Master's from the University of Windsor. I've got a thing for crafting cool stuff on the web, especially when it comes to software development especially frontend techniques.
 
 I'm all about that sweet spot where creativity meets tech. I get a kick out of working on frontend projects that not only look awesome but also run like a well-oiled machine. You know, the kind that challenges you to make things both super fast and super slick.
