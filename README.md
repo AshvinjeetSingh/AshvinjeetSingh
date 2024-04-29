@@ -3,6 +3,9 @@
 
 **`Digital Craftsman (Developer/Designer/Problem Solver`**
 
+
+<hr/>
+
 Hey there! I'm a software developer with experience from HSBC and a Master's from the University of Windsor. I've got a thing for crafting cool stuff on the web, especially when it comes to software development especially frontend techniques.
 
 I'm all about that sweet spot where creativity meets tech. I get a kick out of working on frontend projects that not only look awesome but also run like a well-oiled machine. You know, the kind that challenges you to make things both super fast and super slick.
@@ -10,15 +13,9 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
  I'm all about the challenge of creating sites that are both lightning-fast and visually captivating. I've made it my mission to explore inventive ways to design seamless, user-friendly experiences.
 
 
- <p align="left">
-   <a href="www.linkedin.com/in/ashvinjeetsingh"><img src=""/></a>
-   <a href="https://ashvinjeet.dev/"><img width="32px" alt="Ashvinjeet.dev" title="Ashvinjeet.dev" src="https://i.imgur.com/mVm29vK.png"></a>
-   <a href="https://dribbble.com/AJ1998"></a>
- </p>
+<hr/>
 
 
-
- <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -81,10 +78,10 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
 
 
-<details> 
+<hr/>
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
  
@@ -93,8 +90,8 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AshvinjeetSingh&theme=gruvbox&mode=weekly)](https://git.io/streak-stats)
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AshvinjeetSingh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AshvinjeetSingh&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AshvinjeetSingh&theme=gruvbox&mode=weekly)](https://git.io/streak-stats) &nbsp;
+                  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AshvinjeetSingh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AshvinjeetSingh&langs_count=10&layout=compact&theme=gruvbox" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -104,7 +101,11 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashvnjeet's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AshvinjeetSingh&theme=gruvbox" /></a>
 
   
-</details>
+
+
+[website]: https://ashvinjeet.dev/
+[linkedIn]:https://www.linkedin.com/in/ashvinjeetsingh/
+[Dribble]:https://dribbble.com/AJ1998
 <!--
 **AshvinjeetSingh/AshvinjeetSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
