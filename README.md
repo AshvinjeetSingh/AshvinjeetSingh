@@ -110,7 +110,11 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashvnjeet's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AshvinjeetSingh&theme=gruvbox" /></a>
   </div>
 
-  
+  <hr/>
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  </h3>
+  <hr/>
 
 
 [website]: https://ashvinjeet.dev/
