@@ -94,19 +94,23 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+ 
   [![GitHub Streak](https://streak-stats.demolab.com?user=AshvinjeetSingh&theme=gruvbox&mode=weekly)](https://git.io/streak-stats) &nbsp;
                   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AshvinjeetSingh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AshvinjeetSingh&langs_count=10&layout=compact&theme=gruvbox" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br/>
+  <div align=justify>
+   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /> &nbsp; <img width=400  src="https://leetcard.jacoblin.cool/Ashvinjeet?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashvnjeet's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AshvinjeetSingh&theme=gruvbox" /></a>
+  </div>
 
-  <img width=400  src="https://leetcard.jacoblin.cool/Ashvinjeet?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+  
 
 
 [website]: https://ashvinjeet.dev/
