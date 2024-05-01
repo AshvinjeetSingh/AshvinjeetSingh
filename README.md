@@ -106,7 +106,7 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ashvnjeet's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AshvinjeetSingh&theme=gruvbox" /></a>
 
-  
+  <img width=400  src="https://leetcard.jacoblin.cool/Ashvinjeet?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
 
 
 [website]: https://ashvinjeet.dev/
