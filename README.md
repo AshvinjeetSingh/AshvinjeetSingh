@@ -103,7 +103,7 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
 
   <br/>
   <div align=justify>
-   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yogaprasadmk&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /> &nbsp; <img width=400  src="https://leetcard.jacoblin.cool/Ashvinjeet?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
+   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=AshvinjeetSingh&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /> &nbsp; <img width=400  src="https://leetcard.jacoblin.cool/Ashvinjeet?theme=dark&font=Antic%20Slab&ext=contest" alt="leetcode stats">
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
