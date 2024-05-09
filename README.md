@@ -95,7 +95,7 @@ I'm all about that sweet spot where creativity meets tech. I get a kick out of w
   <h3>💻 GitHub Profile Stats</h3>
 
  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AshvinjeetSingh&theme=gruvbox&mode=weekly)](https://git.io/streak-stats) &nbsp;
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AshvinjeetSingh&theme=gruvbox)](https://git.io/streak-stats) &nbsp;
                   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AshvinjeetSingh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AshvinjeetSingh&langs_count=10&layout=compact&theme=gruvbox" height="192px"/></a>
   <br/>
 
