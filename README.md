@@ -4,7 +4,7 @@
  <a href="https://dribbble.com/AJ1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rishav_chanda" height="30" width="40" /></a>
 
 
-**`Digital Craftsman (Developer/Designer/Problem Solver`**
+**`Digital Craftsman (Developer/Designer/Problem Solver)`**
 
 
 <hr/>
